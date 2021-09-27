@@ -3,9 +3,9 @@
 
 ``Darmowy skrypt na prostytutki przerobiony przezemnie - wersja ESX``
 
-# 💻 Open source można edytować dowoli, poprawiony lekki kod przezemnie ( głownie css, oraz powiadomienia )
+# 💻 Open source można edytować dowoli, poprawiony lekko kod przezemnie ( głownie css, oraz powiadomienia )
 
-# 🔧 To najbardziej absurdalna i bezużyteczna rzecz, jaką kiedykolwiek zrobiłem
+# 🔧 To najbardziej absurdalna i bezużyteczna rzecz, jaką kiedykolwiek zrobiłem ale jest
 Na koordynatach jest NPC u którego wybieracie sobie dziwke: x= 130,43, y= -1324,84, z= 28,21
 Tam możesz otworzyć menu, w którym możesz wybrać żądaną prostytutkę.
 
